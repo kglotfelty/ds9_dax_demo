@@ -1,0 +1,7 @@
+#
+# Custom Commands
+#
+Maximize Image
+*
+bind m
+simple.sh
