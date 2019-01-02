@@ -1,3 +1,16 @@
 .ipynb_checkpoints
 ZZ_HTML
 ZZ_Scripts
+*.png
+*.fits
+*.lut
+*.img
+*/README.md
+ds9.bck*
+*.log
+*.cube
+*.reg
+*.flux
+*.tsv
+*.sym
+*.pdf
