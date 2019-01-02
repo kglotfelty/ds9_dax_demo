@@ -29,4 +29,9 @@ demo `ds9` at AAS233.
 - [Catalogs](10_Catalogs.ipynb)
 - [Custom Analysis Commands](11_Analysis.ipynb)
 - [DAX: `ds9` Analysis eXtensions](20_Dax.ipynb)
+    - Statistics
+    - Histograms
+    - Sherpa
+
+
 
