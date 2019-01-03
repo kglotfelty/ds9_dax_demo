@@ -6,12 +6,12 @@ then
   exit 1
 fi
 
-download_chandra_obsid 4396 evt2
-mv 4396/primary/acisf04396N003_evt2.fits.gz .
-gunzip acisf04396N003_evt2.fits.gz
-rmdir -p 4396/primary
+download_chandra_obsid 3750 evt2
+mv 3750/primary/acisf03750N003_evt2.fits.gz .
+gunzip acisf03750N003_evt2.fits.gz
+rmdir -p 3750/primary
 
-obsid_search_csc 4396 4396.tsv col='o.ks_prob_b,o.photflux_aper_b,o.cnts_aper_b'  clob+
+obsid_search_csc 3750 3750.tsv col='o.ks_prob_b,o.photflux_aper_b,o.cnts_aper_b'  clob+
 
 cat << EOM > ds9.sym
 condition	shape	color	width	dash	font	fontsize	fontweight	fontslant	text	size	size2	units	angle
