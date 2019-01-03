@@ -1,6 +1,6 @@
 # SAOImageDS9 Demo for #AAS233 Chandra/CIAO workshop
 
-Kenny Glotfelty
+Kenny J. Glotfelty
 
 Center for Astrophysics | Harvard & Smithsonian
 
