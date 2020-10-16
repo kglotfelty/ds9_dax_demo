@@ -258,7 +258,7 @@ demo_09()
 cd $ROOT/Contour;
 ds9 a1664_broad_thresh_crop_fill.img  \
   -cmap load \
-  $ASCDS_INSTALL/contrib/data/heart.lut \
+  $ASCDS_CONTRIB/data/heart.lut \
   -scale asinh -smooth yes &
 
   # Contour Parameters
